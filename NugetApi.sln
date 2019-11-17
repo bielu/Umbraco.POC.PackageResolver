@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetApi", "NugetApi\NugetApi.csproj", "{73C92569-C72E-46AF-B1D3-95A0146D5A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetCustomConsole", "NugetCustomConsole\NugetCustomConsole.csproj", "{69F43791-D96C-4EFA-B717-AD041B4A30A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C92569-C72E-46AF-B1D3-95A0146D5A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C92569-C72E-46AF-B1D3-95A0146D5A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C92569-C72E-46AF-B1D3-95A0146D5A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C92569-C72E-46AF-B1D3-95A0146D5A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F43791-D96C-4EFA-B717-AD041B4A30A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F43791-D96C-4EFA-B717-AD041B4A30A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F43791-D96C-4EFA-B717-AD041B4A30A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F43791-D96C-4EFA-B717-AD041B4A30A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
