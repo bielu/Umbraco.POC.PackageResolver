@@ -1,0 +1,14 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.config</mask>
+    <mask>*.cs</mask>
+    <mask>*.js</mask>
+    <mask>*.ps1</mask>
+  </component>
+</application>
