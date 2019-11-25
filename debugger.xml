@@ -9,6 +9,9 @@
         <configuration>
           <option name="allowTypingDuringDebug" value="true" />
           <option name="processExceptionsOutsideMyCode" value="true" />
+          <option name="sshCredentials">
+            <option value="&lt;credentials HOST=&quot;94.130.39.54&quot; PORT=&quot;22&quot; USERNAME=&quot;abi&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
+          </option>
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
