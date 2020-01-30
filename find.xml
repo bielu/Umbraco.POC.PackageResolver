@@ -10,5 +10,6 @@
     <mask>*.ps1</mask>
     <mask>*.js</mask>
     <mask>*.cs</mask>
+    <mask>*.directive.js</mask>
   </component>
 </application>
